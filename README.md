@@ -1,2 +1,2 @@
 # SIVR_MODEL
-SIVER model for vaccination
+SIVR model for vaccination
